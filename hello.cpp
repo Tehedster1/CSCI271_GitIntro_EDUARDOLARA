@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: Eduardo A. Lara
+// Section: Comp Sci
 
 #include <iostream>
 using namespace std;
